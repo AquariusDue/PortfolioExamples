@@ -21,6 +21,7 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 * [andyhau.com](http://andyhau.com)
 * [applid.com](http://applid.com)
 * [aprilzero.com](http://aprilzero.com)
+* [aromalanil.me](http://aromalanil.me)
 * [aquaticgorilla.com](http://aquaticgorilla.com)
 * [arianv.com](http://arianv.com)
 * [austindev.me](http://austindev.me)
